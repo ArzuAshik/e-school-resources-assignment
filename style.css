@@ -95,6 +95,9 @@ nav ul li{
     border-radius: 18px !important;
     background-color: #fff;
 }
+.courses .card:hover{
+    background-color: #F8FFFB;
+}
 .card-footer{
     border-radius: 18px !important;
     background-color: #fff;
