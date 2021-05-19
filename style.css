@@ -13,7 +13,10 @@ Date: 08-Jul-2020
     3. Courses Section
     4. Footer Section
 ***************/
-
+html,
+body{
+    scroll-behavior: smooth;
+}
 body{
     font-family: 'Poppins', sans-serif;    
 }
